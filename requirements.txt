@@ -46,7 +46,7 @@ jaraco.logging==1.5.1
 jaraco.stream==1.1.2
 jaraco.text==1.9.2
 jedi==0.11.1
-Jinja2==2.10
+Jinja2==2.11.3
 jsondatabase==0.1.7
 jsonschema==2.6.0
 jupyter==1.0.0
