@@ -130,7 +130,7 @@ toml==0.9.4
 tornado==4.5.3
 traitlets==4.3.2
 update-checker==0.16
-urllib3==1.22
+urllib3==1.26.5
 venusian==1.1.0
 wcwidth==0.1.7
 websockets==3.4
