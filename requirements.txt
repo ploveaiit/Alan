@@ -133,7 +133,7 @@ update-checker==0.16
 urllib3==1.22
 venusian==1.1.0
 wcwidth==0.1.7
-websockets==3.4
+websockets==9.1
 Werkzeug==0.14.1
 widgetsnbextension==3.1.0
 win-unicode-console==0.5
