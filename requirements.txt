@@ -62,7 +62,7 @@ MarkupSafe==1.0
 Mastodon.py==1.2.2
 mathparse==0.1.1
 matplotlib==2.1.2
-mistune==0.8.3
+mistune==2.0.3
 more-itertools==4.1.0
 mp3play==0.1.15
 multidict==4.1.0
