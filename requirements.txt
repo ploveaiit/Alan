@@ -86,7 +86,7 @@ playsound==1.2.2
 praw==5.3.0
 prawcore==0.13.0
 prompt-toolkit==1.0.15
-protobuf==3.5.1
+protobuf==3.18.3
 PyAudio==0.2.11
 pyborg==1.4.0b2
 pycparser==2.18
